@@ -11,10 +11,7 @@
     padding-left: 24px;
     padding-top: 12px;
     padding-bottom: 5px;
-    color: #66a1f8;
-    background: #69baf0;
-    background: -webkit-linear-gradient(to left, #3f96ec, #3f96ec);
-    background: linear-gradient(to left, #3f96ec, #3f96ec);
+    background: #e18605;
 
     box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
         0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
@@ -57,12 +54,12 @@
     cursor: pointer;
     height: 40px;
     width: 40px;
-    fill: rgba(19, 151, 7, 0.8);
+    fill: rgba(31, 7, 151, 0.8);
     background: transparent;
     border: none;
     outline: none;
     border-radius: 15px;
-    background-color: #f07474;
+    background-color: #79f0b8;
     box-shadow: inset 2px 5px 10px rgba(0, 0, 0, 0.3);
 
     margin-left: 15px;

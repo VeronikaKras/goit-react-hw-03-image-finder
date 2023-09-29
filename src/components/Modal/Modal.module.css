@@ -6,12 +6,12 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.8);
-    z-index: 2;
+    background-color: rgba(244, 239, 239, 0.8);
+    z-index: 1200;
     cursor: pointer;
 }
 
-.Overlay .Modal {
+.Modal {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -23,7 +23,7 @@
     justify-content: center;
 }
 
-.Overlay .Modal img {
+.Modal img {
     position: absolute;
     top: 0;
     bottom: 0;
